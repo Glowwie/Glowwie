@@ -13,7 +13,7 @@ Data Analyst 👩‍💻, I’m looking to collaborate on projects where I can s
 - 🌱 I’m currently learning Python
 
 ## Projects 🚀
-Here's my portfolio website: https://www.datascienceportfol.io/Glory 
+Here's my portfolio website: [Portfolio](https://www.datascienceportfol.io/Glory) 
 
 ### Contact
 - 📫 How to reach me: gloryoghojafor@yahoo.com
