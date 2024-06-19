@@ -1,10 +1,10 @@
 # About me 🤗
 
-I'm Onoriode Glory Oghojafor
+My name is Onoriode Glory Oghojafor
 
-Data Analyst 👩‍💻, I’m looking to collaborate on projects where I can showcase my expertise and transform data into actionable insights. 👯
+I am an Entry-Level Data Analyst 👩‍💻, interested in Data and Business Analytics roles(Internship, Freelancing, Remote and Permanent). 
 
-👩‍💻 I’m interested in Data and Business Analytics.
+👯 Let's Discuss Data and collaborate on projects where I can showcase my expertise and transform data into actionable insights. 
 
 ## My Skills
 - Excel
