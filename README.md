@@ -2,9 +2,11 @@
 
 My name is Onoriode Glory Oghojafor
 
-I am an Entry-Level Data Analyst 👩‍💻, interested in Data and Business Analytics roles(Internship, Freelancing, Remote and Permanent). 
+I am a results-oriented Data/Business Intelligence Analyst with a solid foundation in data analysis and a passion for turning complex data into actionable insights. I am proficient in data manipulation, statistical analysis, and data visualization.
 
-👯 Let's Discuss Data and collaborate on projects where I can showcase my expertise and transform data into actionable insights. 
+I am Known for my problem-solving skills and strong communication abilities, I excel in collaborating with cross-functional teams to drive data decision-making that enhances business performance. I am dedicated to helping organizations leverage their data to make informed, strategic decisions that optimize efficiency and fuel growth.
+
+Connect with me to explore how data-driven insights can take your business to the next level.
 
 ## My Skills
 - Excel
